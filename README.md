@@ -1,13 +1,6 @@
 # 금제 현황
 ## 1. OCG
 
-|이미지|카드명|회차|등록자|
-|---|---|---|---|
-|![인게이지](https://github.com/ProjectHoF/expansions/blob/main/pics/17300010.jpg)|섬도기동-인게이지|0||
-|![인게이지](https://github.com/ProjectHoF/expansions/blob/main/pics/17300010.jpg)|폭주마법진|0||
-|![인게이지](https://github.com/ProjectHoF/expansions/blob/main/pics/17300010.jpg)|캐논 솔저|0||
-
-
 ### 1) 무제한
 |카드명|회차|등록자|
 |---|---|---|
