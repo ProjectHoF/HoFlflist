@@ -1,6 +1,5 @@
 # 금제 현황
 ## 1. OCG
-
 ### 1) 무제한
 |카드명|회차|등록자|
 |---|---|---|
@@ -51,7 +50,6 @@
 |코이즈카 코유메|3||
 |헤븐 다크사이트 -아연-|3||
 |July 18|4||
-|클래식 메모리얼 - 미코토|4||
 |할로위즈 네레이아|6||
 ### 2) 제한
 |카드명|회차|등록자|
@@ -262,3 +260,34 @@
 |넥서스 아카시아|6|미소녀 버츄얼 천재 유리|
 |마법마왕소녀 사토네|6|미소녀 버츄얼 천재 유리|
 |프로젝트 메모리즈(화려하게 아련하게 간절하게)|6|미소녀 버츄얼 천재 유리|
+|클래식 메모리얼 - 미코토|7|개지강 미코토|
+|CytusII Lv.15 V.|7|개지강 미코토|
+|CytusII Lv.14 「妖怪録、我し来にけり。」|7|개지강 미코토|
+|Cytus Lv.9 L(ver.B)|7|개지강 미코토|
+|CytusII Lv.15 Chrome VOX|7|개지강 미코토|
+|CytusII Lv.14 Amenemhat|7|개지강 미코토|
+|CytusII Lv.14 漂流|7|개지강 미코토|
+|CytusII Lv.14 Drop the World|7|개지강 미코토|
+|L1:Loneliness (The Desvastated Lower)|7|개지강 미코토|
+|Cytus|7|개지강 미코토|
+|L10:Largo (In Memory of Maneo.)|7|개지강 미코토|
+|CytusII BM(Black Market) Lv.15 iL|7|개지강 미코토|
+|CytusII BM(Black Market) Lv.15 Blow My Mind(tpz Overheat Remix)|7|개지강 미코토|
+|CytusII BM(Black Market) Lv.14 Sickest City|7|개지강 미코토|
+|Cytus Chapter L|7|개지강 미코토|
+|Cytus Chapter M(Million)|7|개지강 미코토|
+|Cytus Chapter P(Prologue:Live)|7|개지강 미코토|
+|Cytus Lv.1 The New World|7|개지강 미코토|
+|Arom@ge - Berg@mot|7|개지강 미코토|
+|Arom@ge - Ro$em@ry|7|개지강 미코토|
+|Arom@ge - C@n@ng@|7|개지강 미코토|
+|Arom@ge - J@$mine|7|개지강 미코토|
+|레이 아 말리니타스|7|개지강 미코토|
+|Re(리)：뉴턴|7|개지강 미코토|
+|Angel Notes - 카시오페아|7|개지강 미코토|
+|Re(리)：갈릴레이|7|개지강 미코토|
+|Re(리)：세이건|7|개지강 미코토|
+|Re(리)：코페르니쿠스|7|개지강 미코토|
+|Re(리)：프톨레마이오스|7|개지강 미코토|
+|Angel Notes - 레인보우|7|개지강 미코토|
+|Angel Notes - 애드리브|7|개지강 미코토|
