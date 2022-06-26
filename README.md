@@ -1,109 +1,101 @@
 # 금제 현황
 ## 1. 신규 금제
 ### 1) 무제한
-|카드명|등록자|
-|---|---|
-|클래식 메모리얼 - 미오|사아앙요앙요콧치오이데|
+클래식 메모리얼 - 미오  
 ### 2) 준제한
-|카드명|등록자|
-|---|---|
-|메가캐논 솔저|사아앙요앙요콧치오이데|
-|Re(리)：세이건|사아앙요앙요콧치오이데|
-|트릭스터 라이트스테이지|사아앙요앙요콧치오이데|
-|인스톨 그리핀|사아앙요앙요콧치오이데|
-|클래식 메모리얼 - 메이코|사아앙요앙요콧치오이데|
-|수호룡 아가페인|사아앙요앙요콧치오이데|
-|성급한 매장|사아앙요앙요콧치오이데|
-|루루라라 데미|사아앙요앙요콧치오이데|
-|초마도용기사-붉은 눈의 드라군|사아앙요앙요콧치오이데|
-|EDM 펜듈럼 매지션|사아앙요앙요콧치오이데|
-|트로이메어 인어|사아앙요앙요콧치오이데|
-|☆(스텔라이트)-임신성(하우메아)|사아앙요앙요콧치오이데|
-|인스톨드 데이터 유닛|사아앙요앙요콧치오이데|
-|링크로스|사아앙요앙요콧치오이데|
-|무대회전|사아앙요앙요콧치오이데|
-|멜랑홀릭: 말괄량이 낭만고양이|사아앙요앙요콧치오이데|
-|스크립트는 마법이 아니야|사아앙요앙요콧치오이데|
-|EDM 쇼크 마스터|사아앙요앙요콧치오이데|
+메가캐논 솔저  
+Re(리)：세이건  
+트릭스터 라이트스테이지  
+인스톨 그리핀  
+클래식 메모리얼 - 메이코  
+수호룡 아가페인  
+성급한 매장  
+루루라라 데미  
+초마도용기사-붉은 눈의 드라군  
+EDM 펜듈럼 매지션  
+트로이메어 인어  
+☆(스텔라이트)-임신성(하우메아)  
+인스톨드 데이터 유닛  
+링크로스  
+무대회전  
+멜랑홀릭: 말괄량이 낭만고양이  
+스크립트는 마법이 아니야  
+EDM 쇼크 마스터  
 ### 3) 제한
-|카드명|등록자|
-|---|---|
 ### 4) 금지
-|카드명|등록자|
-|---|---|
-|레이니드롭 아멜리아|사아앙요앙요콧치오이데|
-|스피넬라 판타지아|사아앙요앙요콧치오이데|
-|레이니드롭 올리비아|사아앙요앙요콧치오이데|
-|의식마인 릴리서|사아앙요앙요콧치오이데|
-|레이니드롭 아이리스|사아앙요앙요콧치오이데|
-|레이니데이 아이린|사아앙요앙요콧치오이데|
-|레이니데이 이사벨|사아앙요앙요콧치오이데|
-|레이니데이 앨리스|사아앙요앙요콧치오이데|
-|허리케인|사아앙요앙요콧치오이데|
-|소나기는 조용한 음악이 되어(레이니샤워 녹턴)|사아앙요앙요콧치오이데|
-|OVER_LEVEL@SPELL|사아앙요앙요콧치오이데|
-|RAINY@SPELL|사아앙요앙요콧치오이데|
-|치노화!|사아앙요앙요콧치오이데|
-|비바람을 가르고 비상하네(레이니스톰 소어링)|사아앙요앙요콧치오이데|
-|NECROWALKER@SPELL|사아앙요앙요콧치오이데|
-|CRYSTALGIA@SPELL|사아앙요앙요콧치오이데|
-|SAMSARA@SPELL|사아앙요앙요콧치오이데|
-|비가 그친 하늘의 환상(레이니스톱 레인보우)|사아앙요앙요콧치오이데|
-|바닷속 작은 이야기|사아앙요앙요콧치오이데|
-|프로즌오브 레이아르프|사아앙요앙요콧치오이데|
-|에페르 오브 아누프|사아앙요앙요콧치오이데|
-|파이널 히어로 샤를로트|사아앙요앙요콧치오이데|
-|코이즈카 코유메|사아앙요앙요콧치오이데|
-|모에타 카오루코|사아앙요앙요콧치오이데|
-|미세스코드 토커|사아앙요앙요콧치오이데|
-|하이사이버네틱 네리하|사아앙요앙요콧치오이데|
-|스펙터 프라임|사아앙요앙요콧치오이데|
-|누른 눈의 토룡|사아앙요앙요콧치오이데|
-|와타시베 크리스|사아앙요앙요콧치오이데|
-|I'm not D.D.crow!|사아앙요앙요콧치오이데|
-|유키토키사키|사아앙요앙요콧치오이데|
-|이펙트 세일러|사아앙요앙요콧치오이데|
-|엔젤 스피릿츠|사아앙요앙요콧치오이데|
-|본진이 바뀐다|사아앙요앙요콧치오이데|
-|다윈의 악마|사아앙요앙요콧치오이데|
-|포토샵|사아앙요앙요콧치오이데|
-|스스로 선택한 기적|사아앙요앙요콧치오이데|
-|너의 밤하늘 초계반|사아앙요앙요콧치오이데|
-|어느 사랑의 형태|사아앙요앙요콧치오이데|
-|천상의 카운트 다운|사아앙요앙요콧치오이데|
-|케세라세라|사아앙요앙요콧치오이데|
-|영원한 건 없어|사아앙요앙요콧치오이데|
-|CytusII Lv,15 Floor of Lava|cytus2|
-|CytusII Lv.15 Re:incRnaTiØN ~夕焼ケ世界ノ決別ヲ~|cytus2|
-|CytusII Lv.14 Violet|cytus2|
-|CytusII Lv.14 Take me to the Future|cytus2|
-|CytusII Lv.15 CODE NAME : GAMMA|cytus2|
-|Cytus Lv.9 CODE NAME : ZERO|cytus2|
-|Cytus Lv.9 Sweetness Overload!!!|cytus2|
-|Cytus Lv.9 FREEDOM DiVE|cytus2|
-|무녀 미코토|cytus2|
-|무녀 미코코|cytus2|
-|CytusII|cytus2|
-|L3:Leverage (Roar, On the deserted lands)|cytus2|
-|무녀 미코|cytus2|
-|CytusII BM(Black Market) Lv.14 VIS::CRACKED|cytus2|
-|CytusII BM(Black Market) Lv.15 Capybara Kids' Paradise|cytus2|
-|CytusII BM(Black Market) Lv.15 REmorse|cytus2|
-|CytusII BM(Black Market) Lv.15 CODE NAME : SIGMA|cytus2|
-|Cytus Chapter A(Alive)|cytus2|
-|주술전문기자 셰리|cytus2|
-|TT(트리플 트리니티)#1 - 애플|cytus2|
-|TT(트리플 트리니티)#2 - 블링크|cytus2|
-|TT(트리플 트리니티)#3 - 캐시|cytus2|
-|프로즌오브 레그닐브|cytus2|
-|샤를로트-사하퀴엘|cytus2|
-|샤를로트-사키엘|cytus2|
-|NightCore - Hallow|cytus2|
-|아라네아 페일 킬러|cytus2|
-|운명의 좌 「고귀」|cytus2|
-|인스턴트 엔젤 리턴|cytus2|
-|NOSTALGIA@SPELL|cytus2|
-|FINDING_THE_MISSING@SPELL|cytus2|
+레이니드롭 아멜리아  
+스피넬라 판타지아  
+레이니드롭 올리비아  
+의식마인 릴리서  
+레이니드롭 아이리스  
+레이니데이 아이린  
+레이니데이 이사벨  
+레이니데이 앨리스  
+허리케인  
+소나기는 조용한 음악이 되어(레이니샤워 녹턴)  
+OVER_LEVEL@SPELL  
+RAINY@SPELL  
+치노화!  
+비바람을 가르고 비상하네(레이니스톰 소어링)  
+NECROWALKER@SPELL  
+CRYSTALGIA@SPELL  
+SAMSARA@SPELL  
+비가 그친 하늘의 환상(레이니스톱 레인보우)  
+바닷속 작은 이야기  
+프로즌오브 레이아르프  
+에페르 오브 아누프  
+파이널 히어로 샤를로트  
+코이즈카 코유메  
+모에타 카오루코  
+미세스코드 토커  
+하이사이버네틱 네리하  
+스펙터 프라임  
+누른 눈의 토룡  
+와타시베 크리스  
+I'm not D.D.crow!  
+유키토키사키  
+이펙트 세일러  
+엔젤 스피릿츠  
+본진이 바뀐다  
+다윈의 악마  
+포토샵  
+스스로 선택한 기적  
+너의 밤하늘 초계반  
+어느 사랑의 형태  
+천상의 카운트 다운  
+케세라세라  
+영원한 건 없어  
+CytusII Lv,15 Floor of Lava  
+CytusII Lv.15 Re:incRnaTiØN ~夕焼ケ世界ノ決別ヲ~  
+CytusII Lv.14 Violet  
+CytusII Lv.14 Take me to the Future  
+CytusII Lv.15 CODE NAME : GAMMA  
+Cytus Lv.9 CODE NAME : ZERO  
+Cytus Lv.9 Sweetness Overload!!!  
+Cytus Lv.9 FREEDOM DiVE  
+무녀 미코토  
+무녀 미코코  
+CytusII  
+L3:Leverage (Roar, On the deserted lands)  
+무녀 미코  
+CytusII BM(Black Market) Lv.14 VIS::CRACKED  
+CytusII BM(Black Market) Lv.15 Capybara Kids' Paradise  
+CytusII BM(Black Market) Lv.15 REmorse  
+CytusII BM(Black Market) Lv.15 CODE NAME : SIGMA  
+Cytus Chapter A(Alive)  
+주술전문기자 셰리  
+TT(트리플 트리니티)#1 - 애플  
+TT(트리플 트리니티)#2 - 블링크  
+TT(트리플 트리니티)#3 - 캐시  
+프로즌오브 레그닐브  
+샤를로트-사하퀴엘  
+샤를로트-사키엘  
+NightCore - Hallow  
+아라네아 페일 킬러  
+운명의 좌 「고귀」  
+인스턴트 엔젤 리턴  
+NOSTALGIA@SPELL  
+FINDING_THE_MISSING@SPELL  
 ## 2. OCG
 ### 1) 무제한
 |카드명|회차|등록자|
