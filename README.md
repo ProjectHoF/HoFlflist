@@ -3,21 +3,21 @@
 ### 1) 무제한
 클래식 메모리얼 - 미오  
 ### 2) 준제한
-메가캐논 솔저  
+Cannon Soldier MK-2  
 Re(리)：세이건  
-트릭스터 라이트스테이지  
+Trickstar Light Stage  
 인스톨 그리핀  
 클래식 메모리얼 - 메이코  
-수호룡 아가페인  
-성급한 매장  
+Guardragon Agarpain  
+Premature Burial  
 루루라라 데미  
-초마도용기사-붉은 눈의 드라군  
+Red-Eyes Dark Dragoon  
 EDM 펜듈럼 매지션  
-트로이메어 인어  
+Knightmare Mermaid  
 ☆(스텔라이트)-임신성(하우메아)  
 인스톨드 데이터 유닛  
-링크로스  
-무대회전  
+Linkross  
+Set Rotation  
 멜랑홀릭: 말괄량이 낭만고양이  
 스크립트는 마법이 아니야  
 EDM 쇼크 마스터  
@@ -26,12 +26,12 @@ EDM 쇼크 마스터
 레이니드롭 아멜리아  
 스피넬라 판타지아  
 레이니드롭 올리비아  
-의식마인 릴리서  
+Djinn Releaser of Rituals  
 레이니드롭 아이리스  
 레이니데이 아이린  
 레이니데이 이사벨  
 레이니데이 앨리스  
-허리케인  
+Giant Trunade  
 소나기는 조용한 음악이 되어(레이니샤워 녹턴)  
 OVER_LEVEL@SPELL  
 RAINY@SPELL  
@@ -100,56 +100,56 @@ FINDING_THE_MISSING@SPELL
 ### 1) 무제한
 |카드명|회차|등록자|
 |---|---|---|
-|섬도기동-인게이지|0||
-|폭주마법진|0||
-|캐논 솔저|0||
-|BF-은신의 스팀|0||
-|SPYRAL-지니어스|1||
-|마제스펙터 유니콘|2||
-|나비의 단검-엘마|2||
-|발조공모 태엽마이티|3||
-|낙인개막|5||
+|Sky Striker Mobilize - Engage!|0||
+|Magical Meltdown|0||
+|Cannon Soldier|0||
+|Blackwing - Steam the Cloak|0||
+|SPYRAL Quik-Fix|1||
+|Majespecter Unicorn - Kirin|2||
+|Butterfly Dagger - Elma|2||
+|Wind-Up Carrier Zenmaity|3||
+|Branded Opening|5||
 ### 2) 준제한
 |카드명|회차|등록자|
 |---|---|---|
-|소울 차지|0||
-|Em 히구루미|0||
-|파멸룡 간드라X|0||
-|고대 요정 드래곤|0||
-|차원 융합|1||
-|쇄룡사-스컬데드|2||
-|봉인된 자의 왼쪽 팔|2||
-|인페르니티 건|2||
-|초뇌룡-썬더 드래곤|2||
-|메가캐논 솔저|10|사아앙요앙요콧치오이데|
-|트릭스터 라이트스테이지|10|사아앙요앙요콧치오이데|
-|수호룡 아가페인|10|사아앙요앙요콧치오이데|
-|성급한 매장|10|사아앙요앙요콧치오이데|
-|초마도용기사-붉은 눈의 드라군|10|사아앙요앙요콧치오이데|
-|트로이메어 인어|10|사아앙요앙요콧치오이데|
-|링크로스|10|사아앙요앙요콧치오이데|
-|무대회전|10|사아앙요앙요콧치오이데|
+|Soul Charge|0||
+|Performage Plushfire|0||
+|Gandora-X the Dragon of Demolition|0||
+|Ancient Fairy Dragon|0||
+|Dimension Fusion|1||
+|Saryuja Skull Dread|2||
+|Left Arm of the Forbidden One|2||
+|Infernity Launcher|2||
+|Thunder Dragon Colossus|2||
+|Cannon Soldier MK-2|10|사아앙요앙요콧치오이데|
+|Trickstar Light Stage|10|사아앙요앙요콧치오이데|
+|Guardragon Agarpain|10|사아앙요앙요콧치오이데|
+|Premature Burial|10|사아앙요앙요콧치오이데|
+|Red-Eyes Dark Dragoon|10|사아앙요앙요콧치오이데|
+|Knightmare Mermaid|10|사아앙요앙요콧치오이데|
+|Linkross|10|사아앙요앙요콧치오이데|
+|Set Rotation|10|사아앙요앙요콧치오이데|
 ### 3) 제한
 |카드명|회차|등록자|
 |---|---|---|
-|EM 멍키보드|0||
-|토폴로직 검블러 드래곤|0||
-|강탈|2||
-|유언장|2||
-|야타 까마귀|5||
-|사이버 포드|8|☆|
+|Performapal Monkeyboard|0||
+|Topologic Gumblar Dragon|0||
+|Snatch Steal|2||
+|Last Will|2||
+|Yata-Garasu|5||
+|Cyber Jar|8|☆|
 ### 4) 금지
 |카드명|회차|등록자|
 |---|---|---|
-|고통의 선택|1|미소녀 버츄얼 천재 유리|
-|다이너레슬러 판크라톱스|1|미소녀 버츄얼 천재 유리|
-|짓궂은 쌍둥이 악마|6|미소녀 버츄얼 천재 유리|
-|욕망의 항아리|6|미소녀 버츄얼 천재 유리|
-|천사의 자비|6|미소녀 버츄얼 천재 유리|
-|왕궁의 탄압|6|미소녀 버츄얼 천재 유리|
-|외신 아자토트|9|혼돈의 융합체|
-|의식마인 릴리서|10|사아앙요앙요콧치오이데|
-|허리케인|10|사아앙요앙요콧치오이데|
+|Painful Choice|1|미소녀 버츄얼 천재 유리|
+|Dinowrestler Pankratops|1|미소녀 버츄얼 천재 유리|
+|Delinquent Duo|6|미소녀 버츄얼 천재 유리|
+|Pot of Greed|6|미소녀 버츄얼 천재 유리|
+|Graceful Charity|6|미소녀 버츄얼 천재 유리|
+|Royal Oppression|6|미소녀 버츄얼 천재 유리|
+|Outer Entity Azathot|9|혼돈의 융합체|
+|Djinn Releaser of Rituals|10|사아앙요앙요콧치오이데|
+|Giant Trunade|10|사아앙요앙요콧치오이데|
 ## 3. HoF
 ### 1) 무제한
 |카드명|회차|등록자|
