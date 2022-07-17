@@ -1,161 +1,118 @@
 # 금제 현황
 ## 1. 신규 금제
 ### 1) 무제한
-클래식 메모리얼 - 미오  
+방랑자 안내서: 세계의 향기  
 ### 2) 준제한
-Cannon Soldier MK-2  
-Re(리)：세이건  
-Trickstar Light Stage  
-인스톨 그리핀  
-클래식 메모리얼 - 메이코  
-Guardragon Agarpain  
-Premature Burial  
-루루라라 데미  
-Red-Eyes Dark Dragoon  
-EDM 펜듈럼 매지션  
-Knightmare Mermaid  
-☆(스텔라이트)-임신성(하우메아)  
-인스톨드 데이터 유닛  
-Linkross  
-Set Rotation  
-멜랑홀릭: 말괄량이 낭만고양이  
-스크립트는 마법이 아니야  
-EDM 쇼크 마스터  
+EDM 카가리  
+EDM 히구루미  
+넥서스 에밀리아  
+Cytus  
 ### 3) 제한
 ### 4) 금지
-레이니드롭 아멜리아  
-스피넬라 판타지아  
-레이니드롭 올리비아  
-Djinn Releaser of Rituals  
-레이니드롭 아이리스  
-레이니데이 아이린  
-레이니데이 이사벨  
-레이니데이 앨리스  
-Giant Trunade  
-소나기는 조용한 음악이 되어(레이니샤워 녹턴)  
-OVER_LEVEL@SPELL  
-RAINY@SPELL  
-치노화!  
-비바람을 가르고 비상하네(레이니스톰 소어링)  
-NECROWALKER@SPELL  
-CRYSTALGIA@SPELL  
-SAMSARA@SPELL  
-비가 그친 하늘의 환상(레이니스톱 레인보우)  
-바닷속 작은 이야기  
-프로즌오브 레이아르프  
-에페르 오브 아누프  
-파이널 히어로 샤를로트  
-코이즈카 코유메  
-모에타 카오루코  
-미세스코드 토커  
-하이사이버네틱 네리하  
-스펙터 프라임  
-누른 눈의 토룡  
-와타시베 크리스  
-I'm not D.D.crow!  
-유키토키사키  
-이펙트 세일러  
-엔젤 스피릿츠  
-본진이 바뀐다  
-다윈의 악마  
-포토샵  
-스스로 선택한 기적  
-너의 밤하늘 초계반  
-어느 사랑의 형태  
-천상의 카운트 다운  
-케세라세라  
-영원한 건 없어  
-CytusII Lv,15 Floor of Lava  
-CytusII Lv.15 Re:incRnaTiØN ~夕焼ケ世界ノ決別ヲ~  
-CytusII Lv.14 Violet  
-CytusII Lv.14 Take me to the Future  
-CytusII Lv.15 CODE NAME : GAMMA  
-Cytus Lv.9 CODE NAME : ZERO  
-Cytus Lv.9 Sweetness Overload!!!  
-Cytus Lv.9 FREEDOM DiVE  
-무녀 미코토  
-무녀 미코코  
-CytusII  
-L3:Leverage (Roar, On the deserted lands)  
-무녀 미코  
-CytusII BM(Black Market) Lv.14 VIS::CRACKED  
-CytusII BM(Black Market) Lv.15 Capybara Kids' Paradise  
-CytusII BM(Black Market) Lv.15 REmorse  
-CytusII BM(Black Market) Lv.15 CODE NAME : SIGMA  
-Cytus Chapter A(Alive)  
-주술전문기자 셰리  
-TT(트리플 트리니티)#1 - 애플  
-TT(트리플 트리니티)#2 - 블링크  
-TT(트리플 트리니티)#3 - 캐시  
-프로즌오브 레그닐브  
-샤를로트-사하퀴엘  
-샤를로트-사키엘  
-NightCore - Hallow  
-아라네아 페일 킬러  
-운명의 좌 「고귀」  
-인스턴트 엔젤 리턴  
-NOSTALGIA@SPELL  
-FINDING_THE_MISSING@SPELL  
+겨울꽃  
+스테라나이트 아레가  
+마제스티 룰러  
+사운드 오브 워킹 어웨이  
+아틀란티스 소녀  
+별의 조각  
+어게인스트 더 커렌트  
+달빛소년  
+러셀의 찻주전자  
+인스톨 그리핀  
+화성, 갈거니까!  
+이름에게  
+언인스톨  
+프로즌오브 나이드라우그  
+딜레이드 이프  
+멜로위버 다카포  
+스타폴 헤테로스피어  
+스타폴 이오노스피어  
+나무의 유령유희 트리리  
+붕괴하는 눈토끼  
+스타폴 라이덴  
+요괴다과회  
+신세계의 정령  
+영원의 에우리디케  
+아티스헥 트스이가터얼  
+LMo.67 클러스터 [C]  
+쿠즈시-희도섬  
+리가카-희도섬  
+Code Name: Rigil Centaurus  
+NightCore - Eternal  
+투명한 유리구슬처럼 보이지만  
+레고 퍼플  
+커이페티멀 트스이가터얼  
+Code Name: Procyon  
+니지노 미하루  
+욕망과 욕망의 항아리  
+새 테마  
+잔혹동화  
+오버 더 LV(레벨)!  
+멘탈 상실  
+Code Success: Bright Star  
+레고 이클립스  
+약식명령  
 ## 2. OCG
 ### 1) 무제한
 |카드명|회차|등록자|
 |---|---|---|
-|Sky Striker Mobilize - Engage!|0||
-|Magical Meltdown|0||
-|Cannon Soldier|0||
-|Blackwing - Steam the Cloak|0||
-|SPYRAL Quik-Fix|1||
-|Majespecter Unicorn - Kirin|2||
-|Butterfly Dagger - Elma|2||
-|Wind-Up Carrier Zenmaity|3||
-|Branded Opening|5||
+|섬도기동-인게이지|0||
+|폭주마법진|0||
+|캐논 솔저|0||
+|BF-은신의 스팀|0||
+|SPYRAL-지니어스|1||
+|마제스펙터 유니콘|2||
+|나비의 단검-엘마|2||
+|발조공모 태엽마이티|3||
+|낙인개막|5||
 ### 2) 준제한
 |카드명|회차|등록자|
 |---|---|---|
-|Soul Charge|0||
-|Performage Plushfire|0||
-|Gandora-X the Dragon of Demolition|0||
-|Ancient Fairy Dragon|0||
-|Dimension Fusion|1||
-|Saryuja Skull Dread|2||
-|Left Arm of the Forbidden One|2||
-|Infernity Launcher|2||
-|Thunder Dragon Colossus|2||
-|Cannon Soldier MK-2|10|사아앙요앙요콧치오이데|
-|Trickstar Light Stage|10|사아앙요앙요콧치오이데|
-|Guardragon Agarpain|10|사아앙요앙요콧치오이데|
-|Premature Burial|10|사아앙요앙요콧치오이데|
-|Red-Eyes Dark Dragoon|10|사아앙요앙요콧치오이데|
-|Knightmare Mermaid|10|사아앙요앙요콧치오이데|
-|Linkross|10|사아앙요앙요콧치오이데|
-|Set Rotation|10|사아앙요앙요콧치오이데|
+|소울 차지|0||
+|Em 히구루미|0||
+|파멸룡 간드라X|0||
+|고대 요정 드래곤|0||
+|차원 융합|1||
+|쇄룡사-스컬데드|2||
+|봉인된 자의 왼쪽 팔|2||
+|인페르니티 건|2||
+|초뇌룡-썬더 드래곤|2||
+|메가캐논 솔저|10|사아앙요앙요콧치오이데|
+|트릭스터 라이트스테이지|10|사아앙요앙요콧치오이데|
+|수호룡 아가페인|10|사아앙요앙요콧치오이데|
+|성급한 매장|10|사아앙요앙요콧치오이데|
+|초마도용기사-붉은 눈의 드라군|10|사아앙요앙요콧치오이데|
+|트로이메어 인어|10|사아앙요앙요콧치오이데|
+|링크로스|10|사아앙요앙요콧치오이데|
+|무대회전|10|사아앙요앙요콧치오이데|
 ### 3) 제한
 |카드명|회차|등록자|
 |---|---|---|
-|Performapal Monkeyboard|0||
-|Topologic Gumblar Dragon|0||
-|Snatch Steal|2||
-|Last Will|2||
-|Yata-Garasu|5||
-|Cyber Jar|8|☆|
+|EM 멍키보드|0||
+|토폴로직 검블러 드래곤|0||
+|강탈|2||
+|유언장|2||
+|야타 까마귀|5||
+|사이버 포드|8|☆|
 ### 4) 금지
 |카드명|회차|등록자|
 |---|---|---|
-|Painful Choice|1|미소녀 버츄얼 천재 유리|
-|Dinowrestler Pankratops|1|미소녀 버츄얼 천재 유리|
-|Delinquent Duo|6|미소녀 버츄얼 천재 유리|
-|Pot of Greed|6|미소녀 버츄얼 천재 유리|
-|Graceful Charity|6|미소녀 버츄얼 천재 유리|
-|Royal Oppression|6|미소녀 버츄얼 천재 유리|
-|Outer Entity Azathot|9|혼돈의 융합체|
-|Djinn Releaser of Rituals|10|사아앙요앙요콧치오이데|
-|Giant Trunade|10|사아앙요앙요콧치오이데|
+|고통의 선택|1|미소녀 버츄얼 천재 유리|
+|다이너레슬러 판크라톱스|1|미소녀 버츄얼 천재 유리|
+|짓궂은 쌍둥이 악마|6|미소녀 버츄얼 천재 유리|
+|욕망의 항아리|6|미소녀 버츄얼 천재 유리|
+|천사의 자비|6|미소녀 버츄얼 천재 유리|
+|왕궁의 탄압|6|미소녀 버츄얼 천재 유리|
+|외신 아자토트|9|혼돈의 융합체|
+|의식마인 릴리서|10|사아앙요앙요콧치오이데|
+|허리케인|10|사아앙요앙요콧치오이데|
 ## 3. HoF
 ### 1) 무제한
 |카드명|회차|등록자|
 |---|---|---|
 |EDM 모르모래트|6||
 |클래식 메모리얼 - 미오|10|사아앙요앙요콧치오이데|
+|방랑자 안내서: 세계의 향기|11|마카베P|
 ### 2) 준제한
 |카드명|회차|등록자|
 |---|---|---|
@@ -163,7 +120,6 @@ FINDING_THE_MISSING@SPELL
 |July 18|4||
 |할로위즈 네레이아|6||
 |Re(리)：세이건|10|사아앙요앙요콧치오이데|
-|인스톨 그리핀|10|사아앙요앙요콧치오이데|
 |클래식 메모리얼 - 메이코|10|사아앙요앙요콧치오이데|
 |루루라라 데미|10|사아앙요앙요콧치오이데|
 |EDM 펜듈럼 매지션|10|사아앙요앙요콧치오이데|
@@ -172,6 +128,10 @@ FINDING_THE_MISSING@SPELL
 |멜랑홀릭: 말괄량이 낭만고양이|10|사아앙요앙요콧치오이데|
 |스크립트는 마법이 아니야|10|사아앙요앙요콧치오이데|
 |EDM 쇼크 마스터|10|사아앙요앙요콧치오이데|
+|EDM 카가리|11|마카베P|
+|EDM 히구루미|11|마카베P|
+|넥서스 에밀리아|11|마카베P|
+|Cytus|11|마카베P|
 ### 3) 제한
 |카드명|회차|등록자|
 |---|---|---|
@@ -247,7 +207,6 @@ FINDING_THE_MISSING@SPELL
 |다원마도수 킹자칼|2|초스피드 금지|
 |D-데카르트 데피니션|2|초스피드 금지|
 |E-오일러 데피니션|2|초스피드 금지|
-|넥서스 에밀리아|2|초스피드 금지|
 |넥서스 플루티아|2|초스피드 금지|
 |넥서스 아리엘|2|초스피드 금지|
 |넥서스 세리아|2|초스피드 금지|
@@ -315,12 +274,10 @@ FINDING_THE_MISSING@SPELL
 |멜랑홀릭: 낭만고양이 리프레인|4|2014 이시즈티아라|
 |클래식 메모리얼 - 쿠로네코|4|2014 이시즈티아라|
 |EDM 지고바이트|4|2014 이시즈티아라|
-|EDM 히구루미|4|2014 이시즈티아라|
 |클래식 메모리얼 - 사기리|4|2014 이시즈티아라|
 |조현의 EDM|4|2014 이시즈티아라|
 |EDM 드란시아|4|2014 이시즈티아라|
 |EDM 엘렉트럼|4|2014 이시즈티아라|
-|EDM 카가리|4|2014 이시즈티아라|
 |유혹의 펜듈럼디스코|4|2014 이시즈티아라|
 |예능의 펜듈럼디스코|4|2014 이시즈티아라|
 |EDM의 회국|4|2014 이시즈티아라|
@@ -381,7 +338,6 @@ FINDING_THE_MISSING@SPELL
 |CytusII Lv.14 漂流|7|개지강 미코토|
 |CytusII Lv.14 Drop the World|7|개지강 미코토|
 |L1:Loneliness (The Desvastated Lower)|7|개지강 미코토|
-|Cytus|7|개지강 미코토|
 |L10:Largo (In Memory of Maneo.)|7|개지강 미코토|
 |CytusII BM(Black Market) Lv.15 iL|7|개지강 미코토|
 |CytusII BM(Black Market) Lv.15 Blow My Mind(tpz Overheat Remix)|7|개지강 미코토|
@@ -425,7 +381,6 @@ FINDING_THE_MISSING@SPELL
 |마치 구름 위를 걷는 듯한 기분|9|혼돈의 융합체|
 |모에타 카오루코|9|혼돈의 융합체|
 |나이트메어 네크로맨서|9|혼돈의 융합체|
-|방랑자 안내서: 세계의 향기|9|혼돈의 융합체|
 |방랑자 안내서: 목적지는 어디로?|9|혼돈의 융합체|
 |방랑자 안내서: 천사에 관하여|9|혼돈의 융합체|
 |유키-시작은 혼자서|9|혼돈의 융합체|
@@ -511,3 +466,46 @@ FINDING_THE_MISSING@SPELL
 |인스턴트 엔젤 리턴|10|cytus2|
 |NOSTALGIA@SPELL|10|cytus2|
 |FINDING_THE_MISSING@SPELL|10|cytus2|
+|겨울꽃|11|마카베P|
+|스테라나이트 아레가|11|마카베P|
+|마제스티 룰러|11|마카베P|
+|사운드 오브 워킹 어웨이|11|마카베P|
+|아틀란티스 소녀|11|마카베P|
+|별의 조각|11|마카베P|
+|어게인스트 더 커렌트|11|마카베P|
+|달빛소년|11|마카베P|
+|러셀의 찻주전자|11|마카베P|
+|인스톨 그리핀|11|마카베P|
+|화성, 갈거니까!|11|마카베P|
+|이름에게|11|마카베P|
+|언인스톨|11|마카베P|
+|프로즌오브 나이드라우그|11|마카베P|
+|딜레이드 이프|11|마카베P|
+|멜로위버 다카포|11|마카베P|
+|스타폴 헤테로스피어|11|마카베P|
+|스타폴 이오노스피어|11|마카베P|
+|나무의 유령유희 트리리|11|마카베P|
+|붕괴하는 눈토끼|11|마카베P|
+|스타폴 라이덴|11|마카베P|
+|요괴다과회|11|마카베P|
+|신세계의 정령|11|마카베P|
+|영원의 에우리디케|11|마카베P|
+|아티스헥 트스이가터얼|11|마카베P|
+|LMo.67 클러스터 [C]|11|마카베P|
+|쿠즈시-희도섬|11|마카베P|
+|리가카-희도섬|11|마카베P|
+|Code Name: Rigil Centaurus|11|마카베P|
+|NightCore - Eternal|11|마카베P|
+|투명한 유리구슬처럼 보이지만|11|마카베P|
+|레고 퍼플|11|마카베P|
+|커이페티멀 트스이가터얼|11|마카베P|
+|Code Name: Procyon|11|마카베P|
+|니지노 미하루|11|마카베P|
+|욕망과 욕망의 항아리|11|마카베P|
+|새 테마|11|마카베P|
+|잔혹동화|11|마카베P|
+|오버 더 LV(레벨)!|11|마카베P|
+|멘탈 상실|11|마카베P|
+|Code Success: Bright Star|11|마카베P|
+|레고 이클립스|11|마카베P|
+|약식명령|11|마카베P|
